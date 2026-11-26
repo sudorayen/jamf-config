@@ -1,0 +1,1505 @@
+{
+  "googleBeyondCorpEnabled" : false,
+  "networkStateChange" : false,
+  "applicationUsage" : false,
+  "beaconMonitoring" : false,
+  "blacklist" : [
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 118,
+      "name" : "Asphalt",
+      "process" : "Asphalt.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 37,
+      "name" : "Automator",
+      "process" : "Automator",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 119,
+      "name" : "Basketball Simulator",
+      "process" : "Basketball Simulator.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 81,
+      "name" : "BitTorrent",
+      "process" : "bittorrent*",
+      "message" : "BitTorrent Not Allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : false
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 120,
+      "name" : "Block Blast!",
+      "process" : "Block Blast!.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 106,
+      "name" : "Block Boot Camp Assistant",
+      "process" : "Boot Camp Assistant",
+      "message" : "Boot Assistant Not Allowed.",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 4,
+      "name" : "Block macOS Dev Preview Update",
+      "process" : "Install macOS 10.* Beta*",
+      "message" : "Upgrading Operating System is currently disabled, your computer will be upgraded once upgrade has been tested for compatibility.",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : false
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 102,
+      "name" : "Block NAPLAN Uninstaller",
+      "process" : "NAP Locked down browser uninstaller.app",
+      "message" : "This can be uninstalled when NAPLAN 2026 has ended.",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : false
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 8,
+      "name" : "Block Steam",
+      "process" : "Steam",
+      "message" : "Steam Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 9,
+      "name" : "Block Team Fortress 2",
+      "process" : "Fortress",
+      "message" : "Team Fortress Not Allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 10,
+      "name" : "Block TF",
+      "process" : "hl2_osx",
+      "message" : "TF Not Allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 105,
+      "name" : "Brave Browser",
+      "process" : "Brave Browser",
+      "message" : "Brave Browser Not Allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 134,
+      "name" : "Brave Browser Admin",
+      "process" : "Brave Browser Beta.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 78,
+      "name" : "Browsec",
+      "process" : "browsec",
+      "message" : "Browsec Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 121,
+      "name" : "CapCut",
+      "process" : "CapCut.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 34,
+      "name" : "ClashX",
+      "process" : "ClashX",
+      "message" : "ClashX Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 70,
+      "name" : "Cloudfare 1.1.1.1 VPN",
+      "process" : "Cloudflare*",
+      "message" : "Cloudflare VPN Not Allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : false
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 68,
+      "name" : "Cloudfare VPN",
+      "process" : "Cloudflare WARP",
+      "message" : "Cloudflare VPN Not allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 69,
+      "name" : "Cloudfare Warp Daemon",
+      "process" : "CloudflareWARP",
+      "message" : "Cloudflare VPN Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 83,
+      "name" : "CloudFlare 1.1.1.1 VPN",
+      "process" : "*1.1.1.1*",
+      "message" : "Cloudflare Not Allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : false
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 16,
+      "name" : "Code of War",
+      "process" : "CodeOfWar",
+      "message" : "Code of War Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 6,
+      "name" : "Delete Install macOS High Sierra",
+      "process" : "Install macOS High Sierra.app",
+      "message" : "Deleting macOS High Sierra",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 7,
+      "name" : "Disable iMessage",
+      "process" : "Messages",
+      "message" : "iMessage Not Allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 19,
+      "name" : "Discord",
+      "process" : "Discord",
+      "message" : "Discord Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 36,
+      "name" : "Epic Games",
+      "process" : "Epic Games Launcher.app",
+      "message" : "Epic Games Not Allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 115,
+      "name" : "EVE",
+      "process" : "eve.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 114,
+      "name" : "EVE Launcher App",
+      "process" : "EVE Launcher.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 28,
+      "name" : "FaceTime",
+      "process" : "FaceTime",
+      "message" : "FaceTime Not Allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 122,
+      "name" : "FastVPN",
+      "process" : "FastVPN.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 17,
+      "name" : "Firefox",
+      "process" : "Firefox*",
+      "message" : "FireFox Not Allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : false
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 99,
+      "name" : "Firefox",
+      "process" : "Firefox",
+      "message" : "FireFox Not Allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 18,
+      "name" : "Flappy Golf",
+      "process" : "Flappy Golf",
+      "message" : "Flappy Golf Not allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 31,
+      "name" : "Flappy Golf 2",
+      "process" : "Flappy Golf 2",
+      "message" : "This application is not approved by the college and will be removed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 132,
+      "name" : "Friendly Streaming",
+      "process" : "Friendly Streaming.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 123,
+      "name" : "Geometry Dash.app",
+      "process" : "Geometry Dash.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 124,
+      "name" : "Glorious Core",
+      "process" : "Glorious Core.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 32,
+      "name" : "Head Soccer",
+      "process" : "headsoccer.app",
+      "message" : "Head Soccer Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 91,
+      "name" : "Hide.me VPN",
+      "process" : "\"hide.me VPN\"",
+      "message" : "hide.me VPN not allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 92,
+      "name" : "Hide.me VPN copy",
+      "process" : "hide.me",
+      "message" : "hide.me VPN not allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 77,
+      "name" : "Hola",
+      "process" : "hola*",
+      "message" : "Hola Not Allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : false
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 40,
+      "name" : "Honey Miner",
+      "process" : "Honey Miner",
+      "message" : "Honey Miner Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 75,
+      "name" : "Hotspot Shield VPN",
+      "process" : "hotspot*",
+      "message" : "HotSpot Shield Not Allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : false
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 14,
+      "name" : "House Party",
+      "process" : "Houseparty",
+      "message" : "House Party Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 22,
+      "name" : "Island Racer",
+      "process" : "Island Racer.app",
+      "message" : "Island Racer Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 82,
+      "name" : "LogMeIn",
+      "process" : "logmein*",
+      "message" : "LogMeIn Not Allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : false
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 93,
+      "name" : "Messages",
+      "process" : "Messages",
+      "message" : "Messages not allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : false
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 64,
+      "name" : "Messenger",
+      "process" : "Messenger",
+      "message" : "Messenger Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 125,
+      "name" : "Minecraft",
+      "process" : "Minecraft.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 63,
+      "name" : "MutliCraft",
+      "process" : "MultiCraft",
+      "message" : "MultiCraft Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 126,
+      "name" : "MyHoops",
+      "process" : "MyHoops.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 25,
+      "name" : "OpenEmu",
+      "process" : "OpenEmu.app",
+      "message" : "OpenEmu Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 67,
+      "name" : "Opera",
+      "process" : "Opera",
+      "message" : "Opera Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 127,
+      "name" : "Parallels Desktop",
+      "process" : "Parallels Desktop.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 133,
+      "name" : "phone",
+      "process" : "Phone.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 116,
+      "name" : "PlayCover",
+      "process" : "PlayCover.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 128,
+      "name" : "Prism Launcher",
+      "process" : "Prism Launcher.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 35,
+      "name" : "QQ",
+      "process" : "QQ",
+      "message" : "QQ Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 129,
+      "name" : "Record It",
+      "process" : "Record It.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 87,
+      "name" : "Roblox",
+      "process" : "Roblox*",
+      "message" : "Roblox not allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : false
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 96,
+      "name" : "Roblox",
+      "process" : "Roblox",
+      "message" : "Roblox not allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 109,
+      "name" : "Roblox",
+      "process" : "not blocked.app",
+      "message" : "",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 97,
+      "name" : "Roblox.app",
+      "process" : "Roblox.app",
+      "message" : "Roblox not allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : false
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 95,
+      "name" : "RobloxPlayer",
+      "process" : "RobloxPlayer",
+      "message" : "Robloxnot allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 94,
+      "name" : "RobloxPlayerInstaller",
+      "process" : "RobloxPlayerInstaller",
+      "message" : "RobloxPlayerInstaller not allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : false
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 130,
+      "name" : "RoQoL",
+      "process" : "RoQoL.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 11,
+      "name" : "Screen Sharing",
+      "process" : "Screen Sharing",
+      "message" : "Screen Sharing Not Allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 117,
+      "name" : "Setapp",
+      "process" : "Setapp.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 23,
+      "name" : "Skype",
+      "process" : "Skype",
+      "message" : "Skype Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 39,
+      "name" : "Snap Camera",
+      "process" : "Snap Camera",
+      "message" : "Snap Camera Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 89,
+      "name" : "Snapchat",
+      "process" : "Snapchat",
+      "message" : "Snapchat Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 104,
+      "name" : "snapchat",
+      "process" : "Snapchat.app",
+      "message" : "snapchat not allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 38,
+      "name" : "Steam",
+      "process" : "Steam",
+      "message" : "Steam Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 76,
+      "name" : "SurfShark VPN",
+      "process" : "surf*",
+      "message" : "SurfShark Not Allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : false
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 24,
+      "name" : "TeamSpeak",
+      "process" : "TeamSpeak*",
+      "message" : "TeamSpeak Not Allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : false
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 71,
+      "name" : "Telegram",
+      "process" : "Telegram",
+      "message" : "Telegram Not allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 41,
+      "name" : "Terminal",
+      "process" : "Terminal.app  iTerm.app  Terminal bash zsh, Terminal",
+      "message" : "",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 90,
+      "name" : "TikTok",
+      "process" : "Tiktok",
+      "message" : "Tiktok Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 74,
+      "name" : "Torrent",
+      "process" : "*torrent",
+      "message" : "Torrent Not Allowed",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : false
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 20,
+      "name" : "Twitch",
+      "process" : "Twitch",
+      "message" : "Twitch Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 73,
+      "name" : "Twitter",
+      "process" : "Twitter",
+      "message" : "Twitter Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 131,
+      "name" : "VMware Fusion",
+      "process" : "VMware Fusion.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 13,
+      "name" : "VPN Unlimited",
+      "process" : "VPN Unlimited",
+      "message" : "This software is a breach of the ICT Agreement and has been deleted from your machine.",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 49,
+      "name" : "VPN_BestVPN",
+      "process" : "Best VPN",
+      "message" : "This application is not approved by the college and will be removed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 50,
+      "name" : "VPN_BetternetVPN",
+      "process" : "Betternet VPN",
+      "message" : "This application is not approved by the college and will be removed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 62,
+      "name" : "VPN_Cargo_VPN",
+      "process" : "Cargo VPN",
+      "message" : "This software is a breach of the ICT Agreement and has been deleted from your machine.",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 43,
+      "name" : "VPN_Free_VPN",
+      "process" : "Free VPN",
+      "message" : "This software is a breach of the ICT Agreement and has been deleted from your machine.",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 44,
+      "name" : "VPN_HolaVPN",
+      "process" : "HolaVPN",
+      "message" : "This software is a breach of the ICT Agreement and has been deleted from your machine.",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 42,
+      "name" : "VPN_Hotspot Shield",
+      "process" : "Hotspot Shield",
+      "message" : "This software is a breach of the ICT Agreement and has been deleted from your machine.",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 51,
+      "name" : "VPN_Nord VPN IKE",
+      "process" : "NordVPN IKE",
+      "message" : "This software is a breach of the ICT Agreement and has been deleted from your machine.",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 26,
+      "name" : "VPN_ProtonVPN",
+      "process" : "ProtonVPN",
+      "message" : "This software is a breach of the ICT Agreement and has been deleted from your machine.",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 52,
+      "name" : "VPN_SkyVPN",
+      "process" : "SkyVPN",
+      "message" : "This software is a breach of the ICT Agreement and has been deleted from your machine.",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 86,
+      "name" : "VPN_SpeenVPN",
+      "process" : "Speed VPN",
+      "message" : "This software is a breach of the ICT Agreement and has been deleted from your machine.",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 27,
+      "name" : "VPN_Star VPN",
+      "process" : "Star VPN",
+      "message" : "This software is a breach of the ICT Agreement and has been deleted from your machine.",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 45,
+      "name" : "VPN_SurfShark",
+      "process" : "Surfshark",
+      "message" : "This application is not approved by the college and will be removed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 58,
+      "name" : "VPN_Touch_VPN",
+      "process" : "Touch VPN",
+      "message" : "This application is not approved by the college and will be removed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 57,
+      "name" : "VPN_Turbo_VPN",
+      "process" : "Turbo VPN",
+      "message" : "This application is not approved by the college and will be removed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 55,
+      "name" : "VPN_Urban_VPN_Desktop",
+      "process" : "Urban VPN Desktop",
+      "message" : "This application is not approved by the college and will be removed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 60,
+      "name" : "VPN_VPN Hotspot",
+      "process" : "VPN Hotspot",
+      "message" : "This application is not approved by the college and will be removed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 54,
+      "name" : "VPN_VPN Super",
+      "process" : "VPN Super",
+      "message" : "This application is not approved by the college and will be removed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 59,
+      "name" : "VPN_VPN_Master",
+      "process" : "VPN Master",
+      "message" : "This application is not approved by the college and will be removed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 85,
+      "name" : "VPN_VPNify",
+      "process" : "Vpnify",
+      "message" : "VPNify not allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 53,
+      "name" : "VPN_VpnNext",
+      "process" : "VpnNext",
+      "message" : "This application is not approved by the college and will be removed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 56,
+      "name" : "VPN_VPNPlus",
+      "process" : "VPN Plus",
+      "message" : "This application is not approved by the college and will be removed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 46,
+      "name" : "VPN_VPNPro",
+      "process" : "VPN Pro",
+      "message" : "This application is not approved by the college and will be removed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 47,
+      "name" : "VPN_VPNProxyMaster",
+      "process" : "VPN Proxy Master",
+      "message" : "This application is not approved by the college and will be removed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 48,
+      "name" : "VPN_VPNUnlimited",
+      "process" : "VPN Unlimited",
+      "message" : "This application is not approved by the college and will be removed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 61,
+      "name" : "VPN_VPNZONE",
+      "process" : "VPNZONE",
+      "message" : "This application is not approved by the college and will be removed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 88,
+      "name" : "WebCatalog",
+      "process" : "WebCatalog",
+      "message" : "WebCatalog not allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 33,
+      "name" : "WeChat",
+      "process" : "WeChat",
+      "message" : "",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 135,
+      "name" : "Wezterm",
+      "process" : "WezTerm.app",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 72,
+      "name" : "Whatsapp",
+      "process" : "Whatsapp",
+      "message" : "Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 79,
+      "name" : "Windscribe",
+      "process" : "winscribe",
+      "message" : "Winscribe Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 29,
+      "name" : "Wine",
+      "process" : "Wine*",
+      "message" : "",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : false,
+      "jamfProID" : 30,
+      "name" : "Wine (wildcard)",
+      "process" : "wine*",
+      "message" : "",
+      "shouldDelete" : false,
+      "shouldKill" : true,
+      "exactMatch" : false
+    },
+    {
+      "whitelistedUsers" : [
+
+      ],
+      "shouldNotify" : true,
+      "jamfProID" : 80,
+      "name" : "ZenMate",
+      "process" : "zenmate",
+      "message" : "ZenMate Not Allowed",
+      "shouldDelete" : true,
+      "shouldKill" : true,
+      "exactMatch" : true
+    }
+  ],
+  "logUserInfoAtLogin" : false,
+  "checkForPoliciesAtLogin" : true
+}
