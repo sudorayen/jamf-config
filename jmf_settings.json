@@ -1,9 +1,4 @@
-{
-  "googleBeyondCorpEnabled" : false,
-  "networkStateChange" : false,
-  "applicationUsage" : false,
-  "beaconMonitoring" : false,
-  "blacklist" : [
+[
     {
       "whitelistedUsers" : [
 
@@ -65,19 +60,6 @@
       "name" : "Block Blast!",
       "process" : "Block Blast!.app",
       "message" : "",
-      "shouldDelete" : false,
-      "shouldKill" : true,
-      "exactMatch" : true
-    },
-    {
-      "whitelistedUsers" : [
-
-      ],
-      "shouldNotify" : false,
-      "jamfProID" : 106,
-      "name" : "Block Boot Camp Assistant",
-      "process" : "Boot Camp Assistant",
-      "message" : "Boot Assistant Not Allowed.",
       "shouldDelete" : false,
       "shouldKill" : true,
       "exactMatch" : true
@@ -360,19 +342,6 @@
 
       ],
       "shouldNotify" : false,
-      "jamfProID" : 28,
-      "name" : "FaceTime",
-      "process" : "FaceTime",
-      "message" : "FaceTime Not Allowed",
-      "shouldDelete" : false,
-      "shouldKill" : true,
-      "exactMatch" : true
-    },
-    {
-      "whitelistedUsers" : [
-
-      ],
-      "shouldNotify" : false,
       "jamfProID" : 122,
       "name" : "FastVPN",
       "process" : "FastVPN.app",
@@ -594,19 +563,6 @@
 
       ],
       "shouldNotify" : false,
-      "jamfProID" : 93,
-      "name" : "Messages",
-      "process" : "Messages",
-      "message" : "Messages not allowed",
-      "shouldDelete" : false,
-      "shouldKill" : true,
-      "exactMatch" : false
-    },
-    {
-      "whitelistedUsers" : [
-
-      ],
-      "shouldNotify" : false,
       "jamfProID" : 64,
       "name" : "Messenger",
       "process" : "Messenger",
@@ -688,19 +644,6 @@
       "jamfProID" : 127,
       "name" : "Parallels Desktop",
       "process" : "Parallels Desktop.app",
-      "message" : "",
-      "shouldDelete" : false,
-      "shouldKill" : true,
-      "exactMatch" : true
-    },
-    {
-      "whitelistedUsers" : [
-
-      ],
-      "shouldNotify" : false,
-      "jamfProID" : 133,
-      "name" : "phone",
-      "process" : "Phone.app",
       "message" : "",
       "shouldDelete" : false,
       "shouldKill" : true,
@@ -845,19 +788,6 @@
       "name" : "RoQoL",
       "process" : "RoQoL.app",
       "message" : "",
-      "shouldDelete" : false,
-      "shouldKill" : true,
-      "exactMatch" : true
-    },
-    {
-      "whitelistedUsers" : [
-
-      ],
-      "shouldNotify" : false,
-      "jamfProID" : 11,
-      "name" : "Screen Sharing",
-      "process" : "Screen Sharing",
-      "message" : "Screen Sharing Not Allowed",
       "shouldDelete" : false,
       "shouldKill" : true,
       "exactMatch" : true
@@ -1499,7 +1429,4 @@
       "shouldKill" : true,
       "exactMatch" : true
     }
-  ],
-  "logUserInfoAtLogin" : false,
-  "checkForPoliciesAtLogin" : true
-}
+  ]
